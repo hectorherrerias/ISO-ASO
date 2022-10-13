@@ -8,4 +8,4 @@
 Get-Process | Sort-Object cpu -Descending | select -First 1
 ```
 
-![Descripción de la imagen](picture.png)
+![Descripción de la imagen](picture.jpg)
